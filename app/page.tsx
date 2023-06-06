@@ -27,9 +27,9 @@ export default function HomePage() {
           </span>{" "}
         </h1>
         <h2 className="mx-auto mt-12 max-w-xl text-xl sm:text-gray-400  text-gray-500 leading-7">
-          Turn feedback from comments into a
+          Your audience is talking.
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-yellow-200 to-yellow-500">
-            {" "} gold mine
+            {" "} We help you listen
           </span>        </h2>
         <Link
           className="bg-blue-600 rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 hover:bg-blue-500 transition"
